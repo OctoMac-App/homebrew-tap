@@ -1,6 +1,6 @@
 cask "octomac" do
-  version "0.1.4"
-  sha256 "6244c9f86af3d7db2ce96d258245fb9b7a804f324099bdd548013b67129a03c3"
+  version "0.1.5"
+  sha256 "1f64a3cc66aaf9e13839a9ba80c58940abfe31b4e91f2e3a74202ede0def4626"
 
   url "https://github.com/OctoMac-App/OctoMac/releases/download/v#{version}/OctoMac-#{version}.dmg"
   name "OctoMac"
