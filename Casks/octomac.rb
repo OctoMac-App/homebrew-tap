@@ -5,7 +5,7 @@ cask "octomac" do
   url "https://github.com/OctoMac-App/OctoMac/releases/download/v#{version}/OctoMac-#{version}.dmg"
   name "OctoMac"
   desc "Control and monitor OctoPrint 3D printers"
-  homepage "https://octomac-app.github.io/OctoMac/"
+  homepage "https://octomac-app.github.io/"
 
   livecheck do
     url "https://raw.githubusercontent.com/OctoMac-App/OctoMac/master/appcast.xml"
